@@ -1,38 +1,65 @@
-\chapterauthor{Your Name}{Your Affiliation}
-\chapter{Title of your chapter. Please edit mychapter.tex}
+\chapterauthor{Lars Vilhuber}{Cornell University}
+\chapter{Options of Accessing Private Data}
+
+This chapter will rely on and update previous overviews of how researchers, citizens, and administrators can reliably and securely access private data, i.e., data that cannot be simply published as ``open data''. I will discuss various legal, technical, and practical ways of securing access to data that is needed for computations. This obviously depends on the type and complexity of the computations, but also depends on the who, how, and where access is needed.
+
+I specifically exclude from this discussion mechanisms to access private data from individual respondents (people and firms); rather this chapter will focus on access by analysts once data has been collected, with one exception: we will describe some of the foundational aspects of multi-party computing (legal frameworks, consent issues, etc.), though all of the technical aspects of multi-party computing are left to the various chapters in Part 4.
+
+In writing this chapter, I will rely on a variety of publications. \cite{fcsm_report_2005} touches on a few of these mechanism, and an update is being prepared as of this writing. I have previously written about access options to firm-level data \cite{vilhuber_methods_2013}, which in turn referenced older summaries such as \cite{weinberg_access_2007}. I will use framing from \cite{desai_five_2016} and \cite{altman_towards_2015}. Astonishingly, many of the access methods in use today are not very different from those implemented nearly 20 years ago, but I will briefly describe several newer approaches. 
+
+\section{Framing: Four Regions, Five Safes, or Six Colors}
+
+Essentially a summary of the key elements of \cite{altman_towards_2015} and \cite{desai_five_2016} with a sprinkling of colors from the Harvard (six color) Data Policy for rhetorical / practical value.
+
+\section{Legal and Social Mechanisms}
+
+Talk about laws regarding illegal disclosures (exclude laws regarding illegal data collection), and contractual mechanisms (DUA, MOU, NDA) that are used in practice. Social mechanism will collapse the "Safe People" and "Safe Projects" category, also focusing on the institutional aspects of "safe people". Touch on exclusionary aspects of "safe people" - should non-academics have access, for instance, journalists? Mention open data laws (government) and open data mandates with funders. Also talk about how enforcement can play a key role - residency or citizenship as one criterion.
+
+\section{Physical Mechanisms}
+
+\subsection{Local Mechanisms}
+
+Mention local enclaves, secure rooms, etc. Will draw on some of the elemnts in \cite{cole_handbook_2021,shen_physically_2021}.
+
+\subsection{Remote Mechanisms}
+
+Describe VDI, remote processing
+
+\section{Organizational Mechanisms}
+
+This will talk about FSRDC and such networks.
+
+%A short introduction before the first section.
+
+%\section{Section 1}
+%Please edit mychapter.tex. Here are examples of fancy options. More information can be found in README.pdf
+%\subsection{a subsection}
 
 
-A short introduction before the first section.
+%\begin{VF}
+%``You can add a fancy quote using the VF environment''
+%
+%\VA{Anonymous}{Chief Scientist of Unknown Affiliation}
+%\end{VF}
 
-\section{Section 1}
-Please edit mychapter.tex. Here are examples of fancy options. More information can be found in README.pdf
-\subsection{a subsection}
+%\begin{shadebox}
+%OMG! A shaded Box!
+%\end{shadebox}
 
-
-\begin{VF}
-``You can add a fancy quote using the VF environment''
-
-\VA{Anonymous}{Chief Scientist of Unknown Affiliation}
-\end{VF}
-
-\begin{shadebox}
-OMG! A shaded Box!
-\end{shadebox}
-
-\begin{shortbox}
-\Boxhead{Another way to do boxes}
-Think outside the box
-\end{shortbox}
+%\begin{shortbox}
+%\Boxhead{Another way to do boxes}
+%Think outside the box
+%\end{shortbox}
 
 
-\begin{table}[b!]%2
-\tabletitle[Short Table Caption]{Long caption goes here}%}{%
-\begin{tabular}{lccc}
-\tch{Col 1}    &\tch{Col 2} &\tch{Col 3} &\tch{COl 4}\\
-\multicolumn{4}{@{}l@{}}{\tsh{Table Head}}\\[3pt]\hline\\[-6pt]
-Item 1 &19, 221 &4, 598   &3, 200\\
-Item 2 &46, 281 &6, 898 &5, 400\\
-Item 3   &27, 290 &2, 968 &3, 405\\
-Item 4    &14, 796 &9, 188 &3, 209\\
-\end{tabular}
-\end{table}
+%\begin{table}[b!]%2
+%\tabletitle[Short Table Caption]{Long caption goes here}%}{%
+%\begin{tabular}{lccc}
+%\tch{Col 1}    &\tch{Col 2} &\tch{Col 3} &\tch{COl 4}\\
+%\multicolumn{4}{@{}l@{}}{\tsh{Table Head}}\\[3pt]\hline\\[-6pt]
+%Item 1 &19, 221 &4, 598   &3, 200\\
+%Item 2 &46, 281 &6, 898 &5, 400\\
+%Item 3   &27, 290 &2, 968 &3, 405\\
+%Item 4    &14, 796 &9, 188 &3, 209\\
+%\end{tabular}
+%\end{table}
