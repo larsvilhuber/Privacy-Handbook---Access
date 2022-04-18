@@ -1,11 +1,13 @@
 \documentclass[krantz1,ChapterTOCs]{krantz} %See documentation for other class options
-\usepackage{fixltx2e,fix-cm}
+%\usepackage{fixltx2e,
+\usepackage{fix-cm}
 \usepackage{amssymb}
 \usepackage{amsmath}
 \usepackage{graphicx}
 \usepackage{subfigure}
 \usepackage{makeidx}
 \usepackage{multicol}
+\usepackage{acronym}
 
 
 \frenchspacing
@@ -17,6 +19,7 @@
 
 \begin{document}
 
+\include{acronyms}
 %\frontmatter
 
 %\title{Privacy Handbook} %This is a placeholder titlepage, it will not be final.
@@ -49,7 +52,7 @@
 %\include{chapters/chapter2/ch2}
 
 \bibliographystyle{plain}
-\bibliography{references}
+\bibliography{references,references-zotero}
 
 \printindex
 \cleardoublepage
