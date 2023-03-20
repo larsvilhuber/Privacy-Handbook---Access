@@ -1,0 +1,209 @@
+\begin{thebibliography}{10}
+
+\bibitem{altman_towards_2015}
+Micah Altman, Alexandra Wood, David O'Brien, Salil Vadhan, and Urs Gasser.
+\newblock Towards a {Modern} {Approach} to {Privacy}-{Aware} {Government}
+  {Data} {Releases}.
+\newblock {\em Berkeley Technology and Law Journal}, 1967, 2015.
+\newblock tex.ids: altman2015towards.
+\newblock URL: \url{https://papers.ssrn.com/abstract=2779266}, \href
+  {https://doi.org/10.2139/ssrn.2779266}
+  {\path{https://doi.org/10.2139/ssrn.2779266}}.
+
+\bibitem{anderson_american_2015}
+Margo~J. Anderson.
+\newblock {\em The {American} census: a social history}.
+\newblock Yale University Press, New Haven, second edition edition, 2015.
+\newblock OCLC: ocn904081530.
+
+\bibitem{barrientos_providing_2018}
+Andrés~F. Barrientos, Alexander Bolton, Tom Balmat, Jerome~P. Reiter, John~M.
+  de~Figueiredo, Ashwin Machanavajjhala, Yan Chen, Charley Kneifel, and Mark
+  DeLong.
+\newblock Providing {Access} to {Confidential} {Research} {Data} {Through}
+  {Synthesis} and {Verification}: {An} {Application} to {Data} on {Employees}
+  of the {U}.{S}. {Federal} {Government}.
+\newblock {\em The Annals of Applied Statistics}, June 2018.
+\newblock arXiv: 1705.07872.
+\newblock URL: \url{http://arxiv.org/abs/1705.07872}.
+
+\bibitem{bc_ministry_of_citizens_services_privacy_nodate}
+{BC Ministry of Citizens Services}.
+\newblock Privacy, {Security} and the {Five} {Safes} {Model}.
+\newblock Last Modified: 2019-07-30 Publisher: Province of British Columbia.
+\newblock URL:
+  \url{https://www2.gov.bc.ca/gov/content/data/about-data-management/data-innovation-program/privacy-security}.
+
+\bibitem{currie2015social}
+R.F. Currie and S.~Fortin.
+\newblock {\em Social {Statistics} {Matter}: {A} {History} of the {Canadian}
+  {RDC} {Network}}.
+\newblock Canadian Research Data Centre Network = Réseau canadien des Centres
+  de données de recherche, 2015.
+\newblock tex.ids: Currie2015.
+\newblock URL: \url{http://rdc-cdr.ca/sites/default/files/social-statistics-
+  matter-crdcn-history.pdf}.
+
+\bibitem{desai_five_2016}
+Tanvi Desai, Felix Ritchie, and Richard Welpton.
+\newblock Five {Safes}: designing data access for research.
+\newblock Working {Paper}, University of the West of England, 2016.
+\newblock URL: \url{http://eprints.uwe.ac.uk/28124}.
+
+\bibitem{dwork_fienberg_2018}
+Cynthia Dwork and Jonathan Ullman.
+\newblock The {Fienberg} {Problem}: {How} to {Allow} {Human} {Interactive}
+  {Data} {Analysis} in the {Age} of {Differential} {Privacy}.
+\newblock {\em Journal of Privacy and Confidentiality}, 8(1), December 2018.
+\newblock URL: \url{https://journalprivacyconfidentiality.org/index.php/jpc/
+  article/view/687}, \href {https://doi.org/10.29012/jpc.687}
+  {\path{https://doi.org/10.29012/jpc.687}}.
+
+\bibitem{noauthor_e-government_2002}
+E-{Government} {Act}, 2002.
+
+\bibitem{fcsm_report_2005}
+{FCSM}.
+\newblock Report on {Statistical} {Disclosure} {Limitation} {Methodology}.
+\newblock Technical Report 22 (Second version, 2005), \{Federal Committee on
+  Statistical Methodology\}, 2005.
+\newblock URL: \url{https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/
+  242/2014/04/spwp22.pdf}.
+
+\bibitem{noauthor_general_2016}
+General {Data} {Protection} {Regulation} ({GDPR}), 2016.
+\newblock URL: \url{https://gdpr-info.eu/art-17-gdpr/}.
+
+\bibitem{groves_survey_2009}
+Robert~M. Groves, Floyd~J. Fowler~Jr., Mick~P. Couper, James~M. Lepkowski,
+  Eleanor Singer, and Roger Tourangeau.
+\newblock {\em Survey methodology}.
+\newblock Wiley series in survey methodology. Wiley, Hoboken, N.J, 2nd ed
+  edition, 2009.
+\newblock OCLC: ocn302189175.
+
+\bibitem{harvard_university_data_nodate}
+{Harvard University}.
+\newblock Data {Security} {Levels} - {Research} {Data} {Examples}.
+\newblock URL: \url{https://security.harvard.edu/data-security-levels-research-
+  data-examples}.
+
+\bibitem{idan_network_idan_nodate}
+{IDAN Network}.
+\newblock {IDAN} {Network} - {Accreditation}.
+\newblock URL: \url{https://perma.cc/75HV-SZVG}.
+
+\bibitem{meng-congenial}
+Xiao-Li Meng.
+\newblock Multiple-imputation inferences with uncongenial sources of input.
+\newblock {\em Statistical Science}, 9(4):538--558, 1994.
+\newblock URL: \url{http://www.jstor.org/stable/2246252}.
+
+\bibitem{national_center_for_education_statistics_appendix_nodate}
+{National Center for Education Statistics}.
+\newblock Appendix {J}: {Restricted}-use {Data} {Security} {Plan} {Form}.
+\newblock Publisher: National Center for Education Statistics.
+\newblock URL: \url{https://nces.ed.gov/statprog/rudman/j.asp}.
+
+\bibitem{ruggles_steven_ipums_2021}
+Steven Ruggles, Sarah Flood, Sophia Foster, Ronald Goeken, Jose Pacas, Megan
+  Schouweiler, and Matthew Sobek.
+\newblock {IPUMS} {USA}: {Version} 11.0, 2021.
+\newblock Version Number: 11.0 Type: dataset.
+\newblock URL: \url{https://usa.ipums.org}, \href
+  {https://doi.org/10.18128/D010.V11.0}
+  {\path{https://doi.org/10.18128/D010.V11.0}}.
+
+\bibitem{shen_physically_2021}
+Jim Shen and Lars Vilhuber.
+\newblock Physically {Protecting} {Sensitive} {Data}.
+\newblock In Shawn Cole, Iqbal Dhaliwal, Anja Sautmann, and Lars Vilhuber,
+  editors, {\em Handbook on {Using} {Administrative} {Data} for {Research} and
+  {Evidence}-based {Policy}}, pages 37--84. Abdul Latif Jameel Poverty Action
+  Lab, January 2021.
+\newblock URL: \url{https://admindatahandbook.mit.edu/print/v1.0/
+  handbook_ch2_Physical-protection.pdf}, \href
+  {https://doi.org/10.31485/admindatahandbook.1.0}
+  {\path{https://doi.org/10.31485/admindatahandbook.1.0}}.
+
+\bibitem{SILBERMAN_2021}
+Roxane SILBERMAN.
+\newblock Developing access to confidential data in france: results and new
+  challenges.
+\newblock {\em Journal of Privacy and Confidentiality}, 11(2), Sep. 2021.
+\newblock URL: \url{https://journalprivacyconfidentiality.org/index.php/jpc/
+  article/view/788}, \href {https://doi.org/10.29012/jpc.788}
+  {\path{https://doi.org/10.29012/jpc.788}}.
+
+\bibitem{sp_dow_jones_indices_llc_sp_2020}
+{S\&P Dow Jones Indices LLC}.
+\newblock S\&{P} 500 [{SP500}].
+\newblock Technical report, FRED, Federal Reserve Bank of St. Louis
+  [distributor], June 2020.
+\newblock URL: \url{https://fred.stlouisfed.org/series/SP500}.
+
+\bibitem{statistics_canada_statistics_2012}
+{Statistics Canada}.
+\newblock Statistics {Canada} {Open} {Licence}, February 2012.
+\newblock Last Modified: 2021-10-29.
+\newblock URL: \url{https://www.statcan.gc.ca/en/reference/licence}.
+
+\bibitem{statistics_canada_information_2018}
+{Statistics Canada}.
+\newblock Information on {Statistics} {Canada} {Privacy} {Framework}.
+\newblock Technical report, November 2018.
+\newblock URL:
+  \url{https://sencanada.ca/content/sen/committee/421/BANC/Briefs/BANC_SS-1_REF_StatisticsCanada_e.pdf}.
+
+\bibitem{statistics_canada_real_2021}
+{Statistics Canada}.
+\newblock Real {Time} {Remote} {Access}, June 2021.
+\newblock URL: \url{https://www.statcan.gc.ca/en/microdata/rtra}.
+
+\bibitem{uk_government_open_2014}
+{UK Government}.
+\newblock Open {Government} {Licence} for public sector information {V3}, 2014.
+\newblock URL: \url{https://www.nationalarchives.gov.uk/doc/open-government-
+  licence/version/3/}.
+
+\bibitem{uk_government_digital_2020}
+{UK Government}.
+\newblock Digital {Economy} {Act} 2017: {Research} {Code} of {Practice} and
+  {Accreditation} {Criteria}, February 2020.
+\newblock URL: \url{https://perma.cc/Q8J8-KUPX}.
+
+\bibitem{us_census_bureau_federal_2021}
+{US Census Bureau}.
+\newblock Federal {Law}, October 2021.
+\newblock Section: Government.
+\newblock URL: \url{https://www.census.gov/about/policies/privacy/
+  data_stewardship/federal_law.html}.
+
+\bibitem{noauthor_title_nodate}
+U.s. code, title 13.
+\newblock URL: \url{https://www.law.cornell.edu/uscode/text/13/214}.
+
+\bibitem{vilhuber_methods_2013}
+Lars Vilhuber.
+\newblock Methods for {Protecting} the {Confidentiality} of {Firm}-{Level}
+  {Data}: {Issues} and {Solutions}.
+\newblock Technical Report~19, Labor Dynamics Institute, March 2013.
+\newblock URL: \url{https://hdl.handle.net/1813/89089}.
+
+\bibitem{vilhuber_usage_2016}
+Lars Vilhuber and John Abowd.
+\newblock Usage and outcomes of the {Synthetic} {Data} {Server}.
+\newblock Presentation, Labor Dynamics Institute, 2016.
+\newblock URL: \url{http://hdl.handle.net/1813/43883}.
+
+\bibitem{weinberg_access_2007}
+Daniel~H Weinberg, John~M Abowd, Philip~M Steel, Laura Zayatz, and Sandra~K
+  Rowland.
+\newblock Access {Methods} for {United} {States} {Microdata}.
+\newblock Technical Report 07-25, Center for Economic Studies, U.S. Census
+  Bureau, September 2007.
+\newblock URL: \url{https://ideas.repec.org/p/cen/wpaper/07-25.html}, \href
+  {https://doi.org/10.2139/ssrn.1015374}
+  {\path{https://doi.org/10.2139/ssrn.1015374}}.
+
+\end{thebibliography}
